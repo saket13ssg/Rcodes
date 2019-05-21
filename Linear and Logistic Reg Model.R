@@ -1,5 +1,5 @@
 ##Linear Regression Model
-
+##use usedcars.xlsx and homeappliances.xlsx for working on this code
 library(readxl)
 UsedCars <- read_excel("C:/Users/Prajakta/Downloads/Saket/Books/OPIM 5603/Assignment/UsedCars.xlsx")
 View(UsedCars)
